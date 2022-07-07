@@ -15,15 +15,15 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/seunggil1"><img src="https://avatars.githubusercontent.com/u/39328846?v=4" width="100px;" alt=""/><br /><sub><b>김혜성   </b><br></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/ellynhan"><img src="https://avatars.githubusercontent.com/u/56557862?v=4" width="100px;" alt=""/><br /><sub><b>곽혜원</b><br/></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/seunggil1"><img src="https://avatars.githubusercontent.com/u/39328846?v=4" width="100px;" alt=""/><br /><sub><b>김혜성   </b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ellynhan"><img src="https://avatars.githubusercontent.com/u/56557862?v=4" width="100px;" alt=""/><br /><sub><b>곽혜원</b></sub></a><br /></td>
  
   </tr>
 </table>
 
 ## 현황
 
-  <article id="ed444792-79ba-41e5-87bf-bd831fb9e5e4" class="page sans">
+  <article style="font-size: 14px;" id="ed444792-79ba-41e5-87bf-bd831fb9e5e4" class="page sans">
     <header><h1 class="page-title">문제 모음</h1></header>
     <div class="page-body">
       <table class="collection-content">
