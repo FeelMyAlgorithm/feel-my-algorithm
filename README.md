@@ -15,8 +15,8 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/seunggil1"><img src="https://avatars.githubusercontent.com/u/39328846?v=4" width="100px;" alt=""/><br /><sub><b>김혜성   </b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/ellynhan"><img src="https://avatars.githubusercontent.com/u/56557862?v=4" width="100px;" alt=""/><br /><sub><b>곽혜원</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Hyesung82"><img src="https://avatars.githubusercontent.com/u/39328846?v=4" width="100px;" alt=""/><br /><sub><b>김혜성   </b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/YumYumNyang"><img src="https://avatars.githubusercontent.com/u/56557862?v=4" width="100px;" alt=""/><br /><sub><b>곽혜원</b></sub></a><br /></td>
  
   </tr>
 </table>
