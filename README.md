@@ -1,5 +1,10 @@
 # feel-my-algorithm, 내 알고리듬을 느껴봐
 
+<img src="https://user-images.githubusercontent.com/56557862/189591601-c49026cd-d662-4b29-bc17-5feac3767a51.png" width="300px" height="300px" alt="[FeelMyAlgorithm]"/>
+
+
+
+
 ## 목표
 
 -   알고리즘에 대한 이해를 높이고, 기본적인 프로그래밍 실력을 다지기 위함
